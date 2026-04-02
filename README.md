@@ -1,13 +1,14 @@
 # Playground
 
-İlk egzersiz, Derin Öğrenme’ye (Deep Learning) yumuşak bir giriş niteliğindedir.  
-Bir sinir ağını simüle eden bir site olan **Tensorflow Playground** sayesinde, bir sinir ağında gerçekleşen işlemler hakkında daha iyi bir sezgi kazanacaksınız. Aynı zamanda bu araç, sinir ağlarının görsel bir temsilini sunarak haftanın geri kalanındaki konuları anlamanızı kolaylaştırmayı amaçlar.
+The first exercise is a gentle introduction to Deep Learning.
+Thanks to **Tensorflow Playground**, a site that simulates a neural network, you will gain a better understanding of the processes that occur in a neural network. This tool also aims to make it easier to understand the topics covered in the rest of the week by providing a visual representation of neural networks.
 
-`playground.ipynb` defterini `jupyter notebook` ile başlatın.
+Start the `playground.ipynb` notebook with `jupyter notebook`.
 
-⚠️ **Uyarı (Disclaimer):** Birçok Derin Öğrenme (Deep Learning) challenge’ı için `Google Colab` ile çalışmak tavsiye edilir. Colab, çevrim içi bir Jupyter Notebook gibidir.
+⚠️ **Warning (Disclaimer):** For many Deep Learning challenges, it is recommended to work with `Google Colab`. Colab is like an online Jupyter Notebook.
 
-Bu ilk challenge için Colab’a henüz ihtiyacınız yok.
+You don't need Colab yet for this first challenge.
 
-Ancak isterseniz, Colab’a aşina olmak için [buradaki](https://docs.google.com/document/d/1oU4pQbNxCfu5Rm1ANfIqgylZfExsTVrnMLdKZz4toig/edit?usp=sharing) eğitimimizi okuyabilirsiniz.  
-Özellikle **`House Kaggle Competition Bis`** challenge’ı ve Derin Öğrenme’nin sonraki bölümleri için Colab’ı kullanmak isteyebilirsiniz.
+However, if you wish, you can read our tutorial [here](https://docs.google.com/document/d/1oU4pQbNxCfu5Rm1ANfIqgylZfExsTVrnMLdKZz4toig/edit?usp=sharing) to familiarize yourself with Colab.
+
+You might especially want to use Colab for the **`House Kaggle Competition Bis`** challenge and the later sections of Deep Learning.
